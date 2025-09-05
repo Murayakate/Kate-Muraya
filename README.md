@@ -18,7 +18,7 @@ I'm a passionate curious Business and INformation Technology Student at JKUAT Un
 ![CSS]
 ![JavaScript)
 ![React]
-![Node.js]
+
 
 ## Featured Projects 💻
 
